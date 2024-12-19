@@ -4,9 +4,9 @@
   <br />
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/d-katz/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/charlesreed26/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-    <a href="https://github.com/d-katz">
+    <a href="https://github.com/CharlzReed">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white">
@@ -14,12 +14,12 @@
       </picture>
     </a>
     &nbsp;
-    <a href="https://dkatz.ca/"><img src="https://img.shields.io/badge/Personal Website-8e8d8e" alt="Matrix"/></a>
+    <a href=""><img src="https://img.shields.io/badge/Personal Website-8e8d8e" alt="Matrix"/></a>
     &nbsp;
-    <a href="https://dkatz.ca/David_Katz_Resume.pdf"><img src="https://img.shields.io/badge/Resume-09b6f7" alt="Matrix"/></a>
+    <a href=""><img src="https://img.shields.io/badge/Resume-09b6f7" alt="Matrix"/></a>
   </div>
 
-  <h2 style="margin-bottom: 0;">Hey there! :wave:😎 I'm David :</h2>
+  <h2 style="margin-bottom: 0;">Hey there! :wave:😎 I'm Charles :</h2>
   <br />
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="38" height="38"/>&nbsp;
